@@ -1,7 +1,10 @@
 Notes:
 1 - As part of this project we were required to make sure all of our doccuments were in one file.  Normally I make it a point not to put more than one class in a script.
 2 - All 'art' and 'gui' elements were made entirely using tkinter and math (Which is why the unicorn looks incredible haha).
-3 - Controls - to start the game go to the bottom right and make as many players as you want (preferably between 1 and 6 more than that gets wonky).  Then, roll the dice until the first human player (if any) turn starts.
+3 - Controls - to START THE GAME: go to the bottom right and make as many players as you want (preferably between 1 and 6 more than that gets wonky).  
+    - Then, roll the dice until the first human player (if any) turn starts.
+    
+    - Extra control notes:
     - Human button toggles between human and bot.
     - If you don't want to name your character the game will give your character a name for you.
     - If you don't want to pick a color, the game will pick a color for you.  
